@@ -9,3 +9,6 @@ Adds an option to view all rows when correcting assigments on itslearning
 
 ## Install
 If you have a supported browser with one of the listed addons click [here](https://raw.githubusercontent.com/s111/ViewAllRowsItslearning/master/ViewAllRowsItslearning.user.js) to install.
+
+## Preview
+![screenshot](/screenshot.png)
